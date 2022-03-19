@@ -1,1 +1,3 @@
-This is test project with hero admin panel!
+- Учебный проект 
+- Используется MarvelApi 
+- Используемые технологии: React, Redux Toolkit, Formik, React Transition Group, uuid
