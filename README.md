@@ -1,9 +1,9 @@
 - Учебный проект 
 - Используется MarvelApi 
 - Используемые технологии: 
-        - React, 
-        - Redux, 
-        - Redux Toolkit, 
-        - Formik, 
-        - React Transition Group, 
-        - uuid
+    - React, 
+    - Redux, 
+    - Redux Toolkit, 
+    - Formik, 
+    - React Transition Group,
+    - uuid
